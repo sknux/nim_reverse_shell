@@ -4,7 +4,12 @@
 
 # How to build and run?
 
-### Change this code snippet
+### Nim installation
+```shell
+sudo apt install nim -y
+```
+
+### Change this code fragment
 ```shell
 var ip = "10.0.0.183"
 var port = 1337
